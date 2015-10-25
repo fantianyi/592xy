@@ -13,7 +13,7 @@ $this_url = curPageURL();
 	<meta name="viewport" content="width=device-width, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes"/>
 	<title><?php bloginfo("name"); ?> : <?php the_title(); ?></title>
-    <link rel="shortcut icon" href="http://adcdn.sinaapp.com/网站/逍遥公会@64.ico">
+    <link rel="shortcut icon" href="http://www.592xy.cn/wp-content/themes/modernist/images/web/64@592xy.ico">
 	<?php
 		wp_enqueue_style("main", get_template_directory_uri()."/style/global.css" , false, "1.0");
 		wp_enqueue_style("fonts", get_template_directory_uri()."/style/fonts/stylesheet.css" , false, "1.0");
@@ -316,7 +316,7 @@ opacity:0.1}
                 <div class="row clearfix">
                     <div class="col-xs-4 col-sm-2 col-lg-1">
 			            <div class="logo"><a href="<?php bloginfo("wpurl"); ?>">
-				            <img src="http://adcdn.sinaapp.com/图标/逍遥公会@100.png" />					
+				            <img src="http://www.592xy.cn/wp-content/themes/modernist/images/web/100@592xy.png" />					
 			            </a></div>
                     </div>			        
                     <div class="col-xs-0 col-sm-4 col-lg-7">

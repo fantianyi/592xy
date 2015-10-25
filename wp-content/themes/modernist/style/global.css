@@ -2398,11 +2398,11 @@ background-color: #e9673a; }
 .btn-apple a {
 	top:6px;
     height:30px;
-	background:url(http://adcdn.sinaapp.com/btn/apple_download.png) no-repeat;
+	background:url(http://www.592xy.cn/wp-content/themes/modernist/images/btn/apple_download.png) no-repeat;
 	background-size:90px 30px;
 }
 .btn-android a{
-	background:url(http://adcdn.sinaapp.com/btn/android_download.png) no-repeat;
+	background:url(http://www.592xy.cn/wp-content/themes/modernist/images/btn/android_download.png) no-repeat;
 	background-size:90px 30px;
 }
 
@@ -2585,7 +2585,7 @@ background-color: #e9673a; }
 .nav-box ul{ overflow:hidden; margin:0px;width:auto;text-align:center;list-style-type:none;}
 .nav-box ul li{ width:105px; height:52px;float:left; margin-left:1px; border-left:1px solid #717171;display:inline;list-style-type:none;}
 .nav-box ul li:last-child{border-right:1px solid #717171;width: 107px;}
-.nav-box ul li a{ display:block; width:105px; height:52px; background:url(http://adcdn.sinaapp.com/btn/nav-top-bg@1260.png) no-repeat 0 0; text-indent:-999em;}
+.nav-box ul li a{ display:block; width:105px; height:52px; background:url(http://www.592xy.cn/wp-content/themes/modernist/images/btn/nav-top-bg@1260.png) no-repeat 0 0; text-indent:-999em;}
 .nav-box ul li.li-gong_hui_shuo_ming a{ background-position:-525px 0;}
 .nav-box ul li.li-gong_hui_shuo_ming a:hover, .nav-box ul li.li-gong_hui_shuo_ming a.on{ background-position: -525px -52px;}
 .nav-box ul li.li-gong_hui_huo_dong a{ background-position:-630px 0;}
@@ -2700,7 +2700,7 @@ background-color: #e9673a; }
     .nav-box ul{width:100%;}
     .nav-box ul li{ width:145px; height:71px;}
     .nav-box ul li:last-child{width: 147px;}
-    .nav-box ul li a{width:145px; height:71px; background:url(http://adcdn.sinaapp.com/btn/nav-top-bg.png) no-repeat 0 0;}
+    .nav-box ul li a{width:145px; height:71px; background:url(http://www.592xy.cn/wp-content/themes/modernist/images/btn/nav-top-bg.png) no-repeat 0 0;}
     .nav-box ul li.li-gong_hui_shuo_ming a{ background-position:-725px 0;}
     .nav-box ul li.li-gong_hui_shuo_ming a:hover, .nav-box ul li.li-gong_hui_shuo_ming a.on{ background-position: -725px -71px;}
     .nav-box ul li.li-gong_hui_huo_dong a{ background-position:-870px 0;}
